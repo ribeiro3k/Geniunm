@@ -1,0 +1,8 @@
+{
+  "name": " Geniunm Training Platform 3.0 -  novo layout",
+  "description": "An interactive training platform for consultants, featuring AI-powered flashcards, quizzes, and a conversation simulator with Google Gemini to practice sales skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
